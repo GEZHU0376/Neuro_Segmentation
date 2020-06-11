@@ -1,6 +1,9 @@
 ## Neuro_Segmentation
-Neuro_Seg: Matlab tool for segmentation of mice neurons. 
+Neuro_Seg: 
+Matlab tool for segmentation of mice neurons. 
+
 G.Zhu
+
 5-11-2020
 
 Segmentation tool that help with identification of brain cells for morphological studies of WT mice neuron. Primary objective of the tool is to assist in identification of neuron size in health and cognitive impairment WT mice.
