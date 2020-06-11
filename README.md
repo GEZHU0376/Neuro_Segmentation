@@ -14,7 +14,7 @@ Segmentation tool that help with identification of brain cells for morphological
 6) Filtering small neurons
 7) Segmentation with color based on neuron size (displayed with alpha map)
 
-The segmented neurons will be assigned into different color based on the size. Thresholding was selected based on histogram of the input image. Smaller neurons were ignored to better study mature neuron morphology.
+The segmented neurons will be assigned into different color based on the neuron size. Thresholding was selected based on histogram of the raw input image. Smaller neurons were ignored to better study mature neuron morphology from the cluster. 
 
 ## Source: 
 http://atlas.brain-map.org/atlas?atlas=1&plate=100960324#atlas=1&plate=100960324
